@@ -1,0 +1,11 @@
+# Example
+host: ""
+insecure: true
+token: ""
+tokenOrg: System
+
+org: ""
+vdc: ""
+edgeGateway: ""
+externalIP: ""
+internalIP: ""
